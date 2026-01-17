@@ -1,0 +1,15 @@
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\bin\Debug\net10.0\backend.exe
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\bin\Debug\net10.0\backend.deps.json
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\bin\Debug\net10.0\backend.runtimeconfig.json
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\bin\Debug\net10.0\backend.dll
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\bin\Debug\net10.0\backend.pdb
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\backend.sourcelink.json
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\backend.dll
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\refint\backend.dll
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\backend.pdb
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
+C:\Laba1_Fullstack_Kuzvah\Lab1-Fullstack_Kuzvah\backend\obj\Debug\net10.0\ref\backend.dll
