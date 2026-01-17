@@ -18,5 +18,6 @@ while (a == "y")
 
     Console.WriteLine($"Привет, {name}!");
     Console.WriteLine(dayRussian);
-
+    Console.Write("Хотите продолжить (y/n): ");
+    a = Console.ReadLine().ToLower();
 }
