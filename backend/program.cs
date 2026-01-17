@@ -13,4 +13,10 @@ while (a == "y")
     Console.Write("Введи имя: ");
     string name = Console.ReadLine();
 
+    DateTime today = DateTime.Now;
+    string dayRussian = today.ToString("dddd", new CultureInfo("ru-RU"));
+
+    Console.WriteLine($"Привет, {name}!");
+    Console.WriteLine(dayRussian);
+
 }
